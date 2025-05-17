@@ -1,11 +1,37 @@
-Welcome to my Competitive Programming Repo.
+🧠 Competitive Programming Journey
+Welcome to my Competitive Programming repository.
 
-This repo is to document everything I am doing in attempting to developing a career in competitive programming. My long term goal of becoming a "Candidate Master" on CodeForces which is a ranking of "1900-2000".
+This repo is where I document my long-term journey to reach Candidate Master (Codeforces rating 1900–2000). It’s an ambitious goal — most people either burn out or never get close — but I’m taking a slow, methodical path over the next 3–5 years to get there. My strategy is simple: solve problems daily, review patterns deeply, and focus on long-term mastery over quick wins.
 
-This goal is insane, and most people as always think I am nuts for going after this but I believe I can do it with 3-5 years of diligent practice and daily deep work on problem solving.
+📚 What I’m Studying
+Right now, I’m focused on building a rock-solid foundation in algorithms, data structures, and problem-solving patterns. My study path includes:
 
-The main reason I want to try and excel at CP is to increase likleyhood of job oppurtunities when I attempt to grow a career in AI Quant Development. Having a CP score and being able to solve problems at the top level showcases that you are a top player in the industry.
+Core problem-solving patterns like:
 
-Anyways, enjoy this repo, if you are someone also trying to get better at CP I hope this repo helps you with some resources.
+Sliding Window
 
-:)
+Two Pointers
+
+Fast & Slow Pointers
+
+Hash Maps
+
+Binary Search
+
+Linked Lists, Trees, and Graphs
+
+Weekly practice from NeetCode, LeetCode, and Codeforces contests
+
+Focused deep work blocks using timers and spaced repetition to retain problem types and edge case patterns
+
+Occasional writeups and breakdowns of tougher problems I solve
+
+Over time, I’ll also revisit core math topics like number theory, combinatorics, and modular arithmetic — anything that frequently shows up in mid-to-high level CP contests.
+
+🎯 Why I’m Doing This
+I’m not doing this for clout or credentials. I’m doing this because I want to become dangerous at solving hard problems — under pressure, under time, and under constraints. CP is the best environment I’ve found to sharpen that edge.
+
+👋 If You're Here
+If you’re also on the CP grind, feel free to explore the repo. I’ll be uploading solutions, notes, and key resources as I go. If this helps even one person avoid the confusion I went through early on, that’s a win.
+
+Let’s get after it.
